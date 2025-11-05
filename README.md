@@ -6,7 +6,7 @@ This week is all about getting ready in the right way— because the stronger yo
 
 This week is very important in your career.It shapes how you think, learn, and present yourself as a future AI professional.
 
-What You’ll Learn
+✅What You’ll Learn
 
 - How to build a positive learning mindset— stay focused, motivated, and overcome challenges
 - How to follow a daily study routine that builds consistency and discipline
@@ -14,7 +14,7 @@ What You’ll Learn
 - How to set up your GitHub profile – add projects and publish your first repository
 - Setting your personal goals for the course (Mission Me!)
 
- Key Outcomes
+ ✅Key Outcomes
 
  - You’ll feel confident, clear, and mentally ready to begin your AI journey
  - Your LinkedIn profile will reflect professionalism and growth
